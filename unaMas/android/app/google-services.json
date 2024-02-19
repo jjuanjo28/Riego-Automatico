@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "475243137677",
+    "firebase_url": "https://cultivo-c71e7-default-rtdb.firebaseio.com",
+    "project_id": "cultivo-c71e7",
+    "storage_bucket": "cultivo-c71e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475243137677:android:7224bc14727c5816ccb0c4",
+        "android_client_info": {
+          "package_name": "com.jjuanjo28.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMYS4-Nf7I6L8VYko0RSJ2xHBGuqw8GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

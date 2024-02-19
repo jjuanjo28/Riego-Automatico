@@ -1,0 +1,53 @@
+{
+  "name": "unaMas",
+  "slug": "unaMas",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "userInterfaceStyle": "light",
+  "splash": {
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "package": "com.jjuanjo28.unaMas"
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "fontFamily": {
+      "Jomhuria": "./assets/fonts/Jomhuria-Regular.ttf"
+    },
+    "eas": {
+      "projectId": "66cf5f2e-be95-413f-9c23-666aa5c82e63"
+    }
+  },
+  "owner": "jjuanjo28",
+  "sdkVersion": "49.0.0",
+  "platforms": [
+    "ios",
+    "android",
+    "web"
+  ],
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.jjuanjo28.unaMas"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f5398e41-de71-410b-bfad-eb860545d071"
+      }
+    }
+  }
+}
